@@ -1,0 +1,4 @@
+rencana php
+-menambah fitur toko online
+-memperbaiki tampilan
+-fix bugs
